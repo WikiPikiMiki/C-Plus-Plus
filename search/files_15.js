@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['vector_5fimportant_5ffunctions_2ecpp_2961',['vector_important_functions.cpp',['../d3/d61/vector__important__functions_8cpp.html',1,'']]],
-  ['vector_5fops_2ehpp_2962',['vector_ops.hpp',['../d8/d95/vector__ops_8hpp.html',1,'']]],
-  ['vigenere_5fcipher_2ecpp_2963',['vigenere_cipher.cpp',['../dd/d12/vigenere__cipher_8cpp.html',1,'']]]
+  ['uint128_5ft_2ehpp_0',['uint128_t.hpp',['../da/d41/uint128__t_8hpp.html',1,'']]],
+  ['uint256_5ft_2ehpp_1',['uint256_t.hpp',['../da/da3/uint256__t_8hpp.html',1,'']]],
+  ['unbounded_5f0_5f1_5fknapsack_2ecpp_2',['unbounded_0_1_knapsack.cpp',['../d9/dec/unbounded__0__1__knapsack_8cpp.html',1,'']]],
+  ['union_5fof_5ftwo_5farrays_2ecpp_3',['union_of_two_arrays.cpp',['../d8/d9c/union__of__two__arrays_8cpp.html',1,'']]]
 ];

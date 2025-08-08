@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['geometry_2765',['geometry',['../d5/d5f/namespacegeometry.html',1,'']]],
-  ['graph_2766',['graph',['../df/dce/namespacegraph.html',1,'']]]
+  ['exponential_5fdist_0',['exponential_dist',['../d1/d35/namespaceexponential__dist.html',1,'']]]
 ];

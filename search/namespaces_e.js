@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['qr_5falgorithm_2787',['qr_algorithm',['../d2/d3b/namespaceqr__algorithm.html',1,'']]],
-  ['quadratic_5fprobing_2788',['quadratic_probing',['../d4/dd2/namespacequadratic__probing.html',1,'']]]
+  ['operations_5fon_5fdatastructures_0',['operations_on_datastructures',['../da/d6d/namespaceoperations__on__datastructures.html',1,'']]],
+  ['others_1',['others',['../d0/d6f/namespaceothers.html',1,'']]],
+  ['others_3a_3acache_2',['Cache',['../db/dde/namespaceothers_1_1_cache.html',1,'others']]]
 ];
